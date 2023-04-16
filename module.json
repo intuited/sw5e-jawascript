@@ -1,0 +1,32 @@
+{
+  "name": "sw5e-jawascript",
+  "title": "sw5e Jawascript",
+  "description":  "Hacks to improve sw5e functionality and rendering",
+	"compatibility": {
+		"minimum": "10",
+		"verified": "10"
+	},
+  "relationships": {
+    "systems": [
+      {
+        "id": "sw5e",
+        "type": "system",
+        "compatibility": {
+          "minimum": "2.0.2.2.2.6"
+        }
+      }
+    ]
+  },
+  "version": "0.0.1",
+  "author": "Ted Tibbetts",
+  "authors": [
+    {
+      "name": "Ted Tibbetts",
+      "discord": "circulated.@6126",
+      "url": "https://github.com/intuited"
+    }
+  ],
+  "styles": [
+    "styles/sw5e-jawascript.css"
+  ]
+}

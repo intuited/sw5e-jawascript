@@ -1,0 +1,6 @@
+/* Make the ammo field in inventory less clunky */
+.swalt-sheet .group-grid-inventory .form-group .form-fields input.weapon-reload-count {
+    text-align: right;
+    margin: 0 0 0 0;
+    padding: 1px 0px;
+}
